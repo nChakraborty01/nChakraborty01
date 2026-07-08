@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nChakraborty01 currentlly a self made programmer
 - 👀 I’m interested in Devlopment
-- 🌱 I’m currently learning basics of programming in C, C++, JAVA
+- 🌱 I’m currently learning  C, C++, python, linux, ansible
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me narattamchakraborty01@gmail.com
 - also in linked in  linkedin.com/in/narattam-chakraborty-71603a253 
